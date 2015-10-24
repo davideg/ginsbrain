@@ -10,7 +10,7 @@ import (
 )
 
 const filename = "ginsbrain"
-const bucketName = "david-egg-roll"
+const bucketName = "ginshead"
 
 type Memory struct {
 	Id      int       `json:"id"`
